@@ -2,5 +2,4 @@
 
 ## Add your names to the list
 Geetanjali
-Rashi
 Harsh
